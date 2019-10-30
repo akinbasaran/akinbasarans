@@ -1,0 +1,31 @@
+{
+  "name": "akin-basaran",
+  "version": "1.0.0",
+  "description": "Bu bir denemedir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "akin": "echo 'benim adım akin'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "akinbasaran"
+  ],
+  "author": "Akın Başaran",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.7",
+    "nodemailer": "^6.3.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akinbasaran/akinbasarans.git"
+
+
+  }
+}
